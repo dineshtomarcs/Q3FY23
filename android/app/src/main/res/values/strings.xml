@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Q3FY23</string>
+
+    <string name="facebook_app_id">1321670848667675</string>
+    <string name="fb_login_protocol_scheme">fb1321670848667675</string>
+    <string name="facebook_client_token">45bb18daaf71cf4c253050ecd95d63a7</string>
+
+
+</resources>
